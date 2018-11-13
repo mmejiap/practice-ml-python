@@ -1,0 +1,101 @@
+id;fuente;direccion
+1;D; Av. Caminos del Inca 1626 Lima PE                  
+2;D; Av De Las Artes Sur 110 Lima PE                    
+3;D; AV. FERROCARRIL 1035 INT P 04 2DO PISO Huancayo PE 
+4;D; AV. JOSE  LARCO 201-235 - Miraflores Lima PE       
+5;D; AV. GRAL. JUAN ANTONIO PEZET N° 1309 Lima PE       
+6;D; AV. LAS BEGONIAS N° 705  INT. 105 Lima PE          
+7;D; AV. MALECON DE LA RESERVA 610 TDA N° 234 Lima PE   
+8;D; AV INCA GARCILAZO DE LA VEGA 1337 INT. 1010 Lima PE 
+9;D; AV. INCA GARCILAZO DE LA VEGA 1337 EDIFICIO L1 INT 2034 Lima PE 
+10;D; CALLE MERCADERES N° 120 Lima PE                    
+11;D; AV. LA MARINA N° 2355 MOD. M-01 C.C. OPEN PLAZA Lima PE 
+12;D; AV. ALFREDO BENAVIDES 2192 Lima PE                 
+13;D; AV. EMILIO CAVENECIA N° 187 Lima PE                
+14;D; AV. CIRCUNVALACION N° 1803 INT 11A Lima PE         
+15;D; AV. CARRETERA CENTRAL N° 111 INT. FC-2  ZONA INDUSTRIAL Lima PE 
+16;D; Av. La Marina 2201, San Miguel Lima PE             
+17;D; Av General Juan Antonio Pezet 1309, San Isidro Lima PE 
+18;D; Av. San Luis 1996 San Borja, Lima PE               
+19;D; Av De Las Artes Sur 387 Lima PE                    
+20;D; Av 28 De Julio 462 Lima PE                         
+21;D; 440 Avenida la Fontana, Perú                       
+22;B; 1335 Avenida Alfredo Benavides, Perú               
+23;B; 4200 Avenida Javier Prado Este, Perú               
+24;B; Av. Benavides 1335 Lima PE                         
+25;B; General Garzón 1750, Jesús María Lima PE           
+26;B; av Brasil 2346 of 202 Pueblo Libre Lima PE         
+27;B; Caseta De Información Turística Del Parque Kennedy Lima PE 
+28;B; 1238 Jose Manuel Iturregui, Peru                   
+29;B; Jose Manuel Iturregui 1238 Surquillo PE            
+30;B; Calle Las Palmeras, 235 Lima PE                    
+31;B; 141 Miguel Dasso, Peru                             
+32;B; 3866 Avenida Oscar R. Benavides, Perú              
+33;B; 1650 Avenida Javier Prado Este, Perú               
+34;B; 530 Narciso de la Colina, Perú                     
+35;B; 5268 Avenida Javier Prado Este, Peru               
+36;B; Av. Javier Prado Este 210 - 2A San Isidro Lima PE  
+37;B; 210 Avenida Javier Prado Este, Peru                
+38;B; 683 Calle Julián Arias Araguez, Perú               
+39;B; Av. Grau 276 Lima PE                               
+40;B; Jose Manuel Iturregui 1238 Surquillo Lima PE       
+41;B; 364 Calle Los Olivos, Perú                         
+42;B; 1546 Avenida la Paz, Perú                          
+43;B; Av Benavides 2315 San Antonio Miraflores Lima PE   
+44;B; 731 La Encalada, Perú                              
+45;B; Calle Alcanfores # 495, 4to Piso Miraflores Miraflores PE 
+46;B; 250 Avenida Alfredo Benavides, Peru                
+47;B; av Benavides 4125 lima PE                          
+48;B; 326 Avenida Comandante Espinar, Perú               
+49;B; 4331 Avenida Alfredo Benavides, Perú               
+50;B; 2530 Avenida La Marina, Perú                       
+51;B; Av. Alfredo Benavides 288 Lima PE                  
+52;B; Calle Colón 110 Lima PE                            
+53;B; Av Manuel Villarán 1080- Surquillo Lima PE         
+54;B; 518 Avenida La Paz, Peru                           
+55;B; 233 Avenida Elmer Faucett, Perú                    
+56;B; Av Jose Larco 812, Miraflores Lima PE              
+57;B; 4 El Derby, Peru                                   
+58;B; 6574 Avenida República de Panamá, Perú             
+59;B; 156 Pasaje los Pinos, Peru                         
+60;B; Calle los Canarios Mz H-2 Lote 7 Huachipa PE       
+61;B; 179 Luis Arias Schereiber, Peru                    
+62;B;Alfredo Mendiola 1400
+63;B;Av. Javier Prado Este 4200
+64;B;Carretera Panamericana sur 97.5 C.C. Boulevard Asia
+65;B;Av. Garcilaso de la Vega 377
+66;C;Av. Oscar R Benavides 3866
+67;C;Av. prolongacion paseo de la republica S-M, Chorrillos 
+68;C;Sub lote N° 1 Calle Carretera Atocongo
+69;C;Jr. De la Union 516
+70;C;Av. Alfredo Mendiola 3698 independencia
+71;C;Av. Angamos 1803
+72;C;Calle Monterrey N° 276 CC Caminos el Inca
+73;C;Av. Aviacion 2681 
+74;C;Av. Benavides N° 3393, Urb. Residencial Higuereta
+75;C;Av. General Felipe Salaverry 2370 Jesus María 
+76;C;Av. Carretera Central 111, Santa Anita
+77;C;Av. La Marina 2000-2100, CC Plaza San Miguel, San Miguel
+78;C;Av. America Oeste 750
+79;C;Av. Porongoche 500
+80;C;Av. Cesar Vallejo Oeste N° 1345, Trujillo
+81;C;Av. San Martin N° 727-763 ICA
+82;C;Av. Los Maestros N° 206 , Ica 
+83;C;Calle Miguel de Cervantes S N° 300 urb. Diego Ferre. Local 118
+84;C;Av. Andres Avelino Caceres 147 Int LC 30, Urb. Miraflores
+85;A;Av. Ferrocarril Nº 146 – 150, esq. con Prolongación San Carlos Nº 136
+86;A;Av. Ferrocarril N° S/N Sector 14
+87;A;Av. Ejercito 793 n° A -1026  Cayma, Arequipa
+88;A;Av. Collasuyo N° 2964, LC -126 Cusco
+89;A;C.C. Jockey Plaza
+90;A;Av. Felipe Santiago Salaverry 2370
+91;A;Av. Oscar R. Benavides 3866
+92;A;Av. Aramburú 1160, San Isidro
+93;A;C.C Jockey plaza, Surco
+94;A;C.C Larcomar, Miraflores
+95;A;C.C Real plaza trujillo, Trujillo
+96;A;Calle Libertad 130, Miraflores
+97;A;Av. Santa Cruz 272
+98;A;Av. Faustino Sánchez Carrión 215 
+99;A;Av. La Floresta 103, Santiago de Surco
+100;A;C.C. Mall Aventura de Bellavista
